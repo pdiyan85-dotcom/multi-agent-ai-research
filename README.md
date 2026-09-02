@@ -75,7 +75,7 @@ multi-agent-ai-research/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/diya/multi-agent-ai-research.git
+git clone https://github.com/pdiyan85-dotcom/multi-agent-ai-research.git
 cd multi-agent-ai-research
 ```
 
